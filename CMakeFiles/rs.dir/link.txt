@@ -1,0 +1,1 @@
+/bin/cc -Wall -Wextra CMakeFiles/rs.dir/rs.c.o -o rs 

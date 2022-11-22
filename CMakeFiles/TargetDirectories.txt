@@ -1,0 +1,3 @@
+/student/jiw248/cmpt214/a6/subdir/CMakeFiles/rs.dir
+/student/jiw248/cmpt214/a6/subdir/CMakeFiles/edit_cache.dir
+/student/jiw248/cmpt214/a6/subdir/CMakeFiles/rebuild_cache.dir
