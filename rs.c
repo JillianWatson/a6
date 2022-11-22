@@ -83,7 +83,6 @@ static int	nelem;
 static char	**elem;
 static char	**endelem;
 static char	*curline;
-static int	allocsize = BUFSIZ;
 static int	curlen;
 static int	irows, icols;
 static int	orows, ocols;
