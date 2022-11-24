@@ -1,0 +1,60 @@
+commit 63bbc399be3a824f961345797a3c3b2739525567 (HEAD -> refs/heads/main)
+Merge: 833aee2 1cd58b1
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Tue Nov 22 16:24:28 2022 -0600
+
+    Merge branch 'develop' update working rs.c + MF
+
+commit 1cd58b1aff4184934eced1b00d49b2921031d171 (refs/heads/develop)
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Tue Nov 22 16:20:31 2022 -0600
+
+    commit untracked files for reliability
+
+commit fd3568ae74a0937930ae27f28eee751e2416ca88
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Tue Nov 22 16:12:58 2022 -0600
+
+    commit changes to local repo
+
+commit f8fe8afb98b774966f194cb8c34f0474798c35d8
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Tue Nov 22 15:58:09 2022 -0600
+
+    Create makefi to build rs proj.working accordingly
+
+commit 833aee24a7cadf2c3e058bad00fba532563e034d (refs/remotes/origin/main)
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Tue Nov 22 14:51:32 2022 -0600
+
+    commit orig rs.c file to switch to develop branch
+
+commit 38a17c1fb75a9e1148b00c66eac6cbe96aaaa952
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Mon Nov 21 17:28:31 2022 -0600
+
+    compiled and tested rs.c. Is working accordingly
+
+commit 0d90e37ae910f9967e893ea0c50bde7c0ae4be11
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Mon Nov 21 17:00:35 2022 -0600
+
+    added or removed lines in rc.c specified by rc.diff file
+
+commit 569a58a2d720f6a5f102b3bbd57824453a6356ca
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Mon Nov 21 14:55:42 2022 -0600
+
+    Initial commit: rs.c added to main branch
+
+commit 4ef03180a408888f3692401d6914176b599fd056
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Mon Nov 21 14:41:54 2022 -0600
+
+    test first commit
+
+commit 9d8f6e7a3260ca2f9de7b973fa24b48760b91b52
+Author: Jill(tuxworld) <jillian5521@gmail.com>
+Date:   Mon Nov 21 14:41:14 2022 -0600
+
+    first commit
